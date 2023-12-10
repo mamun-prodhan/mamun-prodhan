@@ -40,4 +40,6 @@
 
 </div>
 
-# 📈 My Skills
+# :chart_with_upwards_trend: Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mamun-prodhan&theme=dark)](https://git.io/streak-stats)
