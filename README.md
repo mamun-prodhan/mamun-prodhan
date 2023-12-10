@@ -42,4 +42,16 @@
 
 # :chart_with_upwards_trend: Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mamun-prodhan&theme=dark)](https://git.io/streak-stats)
+<br />
+<p align="center">
+  <a href="https://github.com/rokonroni">
+
+  </a>
+</p>
+
+<br />
+<p align="center">
+  <a href="https://github.com/mamun-prodhan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-prodhan&theme=dark&border=FEEFC1&background=0D1117" alt="Mamun's GitHub streak"/>
+  </a>
+</p>
