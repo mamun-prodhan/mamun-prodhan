@@ -32,10 +32,12 @@
 <a href="https://codepen.io/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mamunpr9" height="30" width="40" /></a>
 </p>
 
-# 💻 My Skill
+# 💻 My Skills
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,tailwind,nodejs,mongo,react,express" />
 
 </div>
+
+# 📈 My Skills
