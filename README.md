@@ -25,17 +25,10 @@
 
 ## ⭐ Reach Me Out
 
-<p align="left">
-<a href="https://codepen.io/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mamunpr9" height="30" width="40" /></a>
-<a href="https://twitter.com/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamunpr9" height="30" width="40" /></a>
+<p align="center">
 <a href="https://linkedin.com/in/mamunprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamunprodhan" height="30" width="40" /></a>
 <a href="https://fb.com/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamunpr9" height="30" width="40" /></a>
+<a href="https://twitter.com/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamunpr9" height="30" width="40" /></a>
+<a href="https://codepen.io/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mamunpr9" height="30" width="40" /></a>
+
 </p>
-
-## 💻 My Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,tailwind,nodejs,mongo,react,express" />
-
-</div>
