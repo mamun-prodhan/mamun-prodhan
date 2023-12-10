@@ -58,7 +58,7 @@
   </a>
 </p>
 
-# 📚 My Github Profile Stats
+# 🔥 My Github Profile Stats
 
 <div align="center">
 
