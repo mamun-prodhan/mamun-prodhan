@@ -1,13 +1,21 @@
 <a href="https://www.facebook.com/mamunpr9/">
 <img src="https://raw.githubusercontent.com/mamun-prodhan/mamun-prodhan/main/assets/cover/Mamun%20Prodhan.png" />
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-prodhan&label=Profile%20views&color=0e75b6&style=flat" alt="mamun-prodhan" /> </p>
 
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQEs2WXwNldpXg/profile-displaybackgroundimage-shrink_350_1400/0/1653754441813?e=1700697600&v=beta&t=xcN4s8WO5zqKg1ZqIF0O3-A7cII9xFWm9jBVrBK8Dek)](https://www.linkedin.com/in/mamunprodhan/)
+<br />
 
 <h1 align="center">Hi 👋, I'm Mamun Prodhan</h1>
+
+<h3 align="center">A Passionate</h3>
+
+<a align="center" href="https://github.com/mamun-prodhan"><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
+
+<h3 align="center">From Bangladesh</h3>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-prodhan&label=Profile%20views&color=0e75b6&style=flat" alt="mamun-prodhan" /> </p>
+📈 Current overview
+## :chart_with_upwards_trend: Current Stats
 
 - 🌱 I’m currently learning **TypeScript**
 
