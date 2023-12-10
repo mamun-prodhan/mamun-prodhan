@@ -23,6 +23,8 @@
 
 ### ⚡ Fun Fact **I Love to explore new technology**
 
+<br>
+
 # ⭐ Reach Me Out
 
 <p align="center">
