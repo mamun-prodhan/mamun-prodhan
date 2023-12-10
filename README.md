@@ -62,9 +62,9 @@
 
 <div align="center">
 
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamun-prodhan&theme=dracula" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamun-prodhan&theme=dark" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamun-prodhan&theme=dracula" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamun-prodhan&theme=dark" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamun-prodhan&theme=radical" />
 
