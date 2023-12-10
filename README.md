@@ -11,17 +11,17 @@
 
 ## :eyes: Current overview
 
-- 🌱 I’m currently learning **TypeScript**
+### 🔭 I’m currently - A Front End Developer and aiming to be a Full Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://measly-laugh.surge.sh/](https://measly-laugh.surge.sh/)
+### 🌱 I’m exploring - **MERN** Stack Development
 
-- 💬 Ask me about **MERN**
+### 👨‍💻 All of my projects are available at [https://measly-laugh.surge.sh/](https://measly-laugh.surge.sh/)
 
-- 📫 How to reach me **mamunpr9@gmail.com**
+### 💬 Ask me about **Front End Development**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view](https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view)
+### 📄 Know about my experiences [https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view](https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I Love to explore new technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
