@@ -9,7 +9,9 @@
 
 <h3 align="center">A Passionate</h3>
 
-<a align="center" href="https://github.com/mamun-prodhan"><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
+<a style="display: block; text-align: center;" href="https://github.com/mamun-prodhan">
+    <img style="color: white;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&vCenter=true&random=true&width=500&lines=Front+End+Developer;Web+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+</a>
 
 <h3 align="center">From Bangladesh</h3>
 
