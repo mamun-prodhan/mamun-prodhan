@@ -66,9 +66,9 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamun-prodhan&theme=dark" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamun-prodhan&theme=outrun" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamun-prodhan&theme=dark" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mamun-prodhan&theme=dracula&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mamun-prodhan&theme=dark&utcOffset=8" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamun-prodhan&theme=radical" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamun-prodhan&theme=dark" />
 </div>
