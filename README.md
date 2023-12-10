@@ -21,7 +21,7 @@
 
 ### 📄 Know about my experiences [https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view](https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view)
 
-- ⚡ Fun fact **I Love to explore new technology**
+### ⚡ Fun fact **I Love to explore new technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
