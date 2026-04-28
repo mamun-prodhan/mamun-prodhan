@@ -24,10 +24,10 @@ I specialize in <strong>React and TypeScript</strong>, focusing on performance, 
 <h2>🧠 My Expertise</h2>
 
 <ul>
-  <li>🎨 Frontend: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS</li>
-  <li>⚙️ Backend (Basic): Node.js</li>
-  <li>🛒 WooCommerce Plugin Development</li>
-  <li>🧩 Clean Code, Performance Optimization, Scalable Architecture</li>
+  <li>🎨 <strong>Frontend:</strong> React.js, TypeScript, JavaScript (ES6+), Tailwind CSS</li>
+  <li>⚙️ <strong>Backend:</strong> Node.js, Express.js, MongoDB</li>
+  <li>🛒 <strong>Other Tools:</strong> GitHub ,Vs Code, Chrome DevTool, Vercel, Netlify, Figma</li>
+  <li>🧩 <strong>Clean Code:</strong> Performance Optimization, Scalable Architecture</li>
 </ul>
 
 <hr />
@@ -36,7 +36,7 @@ I specialize in <strong>React and TypeScript</strong>, focusing on performance, 
 
 <p>
 I’m passionate about building scalable, user-focused, high-performance applications that solve real-world problems.  
-My goal is to grow as a developer and contribute to impactful products and tools.
+My goal is to grow as a FullStack Engineer and contribute to impactful products and tools.
 </p>
 
 <hr />
@@ -52,7 +52,7 @@ My goal is to grow as a developer and contribute to impactful products and tools
 
 <p>⭐️ <em>Always building, always learning.</em></p>
 
-# 💻 My Skills
+<h2>💻 My Skills</h2>
 
 <div align="center">
 
@@ -60,7 +60,8 @@ My goal is to grow as a developer and contribute to impactful products and tools
 
 </div>
 
-# :chart_with_upwards_trend: Current Stats
+
+<h2>:chart_with_upwards_trend: Current Stats</h2>
 
 <br />
 <p align="center">
@@ -76,7 +77,7 @@ My goal is to grow as a developer and contribute to impactful products and tools
   </a>
 </p>
 
-# 🔥 My Github Profile Stats
+<h2>🔥 My Github Profile Stats</h2>
 
 <div align="center">
 
