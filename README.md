@@ -5,34 +5,52 @@
 
 <br />
 
-<h1 align="center">Hi 👋, I'm Mamun Prodhan</h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">👋 Hi, I'm Mamun Prodhan</h1>
 
-# :eyes: Current overview
+<p align="center"><strong>💻 Software Developer | ⚡ Full-Stack Focused</strong></p>
 
-### 🔭 I’m currently - A Front End Developer and aiming to be a Full Stack Developer
-
-### 🌱 I’m exploring - **MERN** Stack Development
-
-### 👨‍💻 All of my projects are available at [https://measly-laugh.surge.sh/](https://measly-laugh.surge.sh/)
-
-### 💬 Ask me about **Front End Development**
-
-### 📄 Know about my experiences [https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view](https://drive.google.com/file/d/12sl5CZ-FzwTwsE2exIKtvgyKit44zVgX/view)
-
-### ⚡ Fun Fact **I Love to explore new technology**
-
-<br>
-
-# ⭐ Reach Me Out
-
-<p align="center">
-<a href="https://linkedin.com/in/mamunprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamunprodhan" height="30" width="40" /></a>
-<a href="https://fb.com/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mamunpr9" height="30" width="40" /></a>
-<a href="https://twitter.com/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamunpr9" height="30" width="40" /></a>
-<a href="https://codepen.io/mamunpr9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mamunpr9" height="30" width="40" /></a>
+<p>
+I’m a Software Developer with <strong>1.5+ years of professional experience</strong> building scalable and modern web applications.  
+I specialize in <strong>React and TypeScript</strong>, focusing on performance, clean UI/UX, and maintainable architecture. I also have strong skills in <strong>Node.js, Express.js, and MongoDB</strong> for Backend Development
 </p>
+
+<p>
+🚀 At <strong>Linno (formerly CodeRex)</strong>, I developed WooCommerce plugins and marketing automation tools like <strong>MailMint</strong> and <strong>WPFunnels</strong>, contributing to complex systems including <strong>email builders</strong>, <strong>automation workflows</strong>, and <strong>dynamic dashboards</strong>—focused on performance, clean UI/UX, and maintainable code.
+</p>
+
+<hr />
+
+<h2>🧠 My Expertise</h2>
+
+<ul>
+  <li>🎨 Frontend: React.js, TypeScript, JavaScript (ES6+), Tailwind CSS</li>
+  <li>⚙️ Backend (Basic): Node.js</li>
+  <li>🛒 WooCommerce Plugin Development</li>
+  <li>🧩 Clean Code, Performance Optimization, Scalable Architecture</li>
+</ul>
+
+<hr />
+
+<h2>🌱 What Drives Me</h2>
+
+<p>
+I’m passionate about building scalable, user-focused, high-performance applications that solve real-world problems.  
+My goal is to grow as a developer and contribute to impactful products and tools.
+</p>
+
+<hr />
+
+<h2>📫 Connect With Me</h2>
+
+<ul>
+  <li>👨‍💻 Email: <em><a href="mailto:mamunpr6@gmail.com">mamunpr6@gmail.com</a></em></li>
+  <li>💼 LinkedIn: <em>https://www.linkedin.com/in/mamunprodhan/</em></li>
+  <li>🌐 Portfolio: <em>https://mamun-prodhans-portfolio.netlify.app/</em></li>
+  <li>📄 My Resume: <em><a href="https://drive.google.com/uc?id=1XHLpgREdi-UeIWDCt-7EN9CB5rzPl1LV">download resume</a></em></li>
+</ul>
+
+<p>⭐️ <em>Always building, always learning.</em></p>
 
 # 💻 My Skills
 
