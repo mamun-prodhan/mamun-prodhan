@@ -12,7 +12,7 @@
 
 <p>
 I’m a Software Developer with <strong>1.5+ years of professional experience</strong> building scalable and modern web applications.  
-I specialize in <strong>React and TypeScript</strong>, focusing on performance, clean UI/UX, and maintainable architecture. I also have strong skills in <strong>Node.js, Express.js, and MongoDB</strong> for Backend Development
+I specialize in <strong>React.js, Next.js and TypeScript</strong>, focusing on performance, clean UI/UX, and maintainable architecture. I also have strong skills in <strong>Node.js, Express.js, and MongoDB</strong> for Backend Development
 </p>
 
 <p>
@@ -24,7 +24,7 @@ I specialize in <strong>React and TypeScript</strong>, focusing on performance, 
 <h2>🧠 My Expertise</h2>
 
 <ul>
-  <li>🎨 <strong>Frontend:</strong> React.js, TypeScript, JavaScript (ES6+), Tailwind CSS</li>
+  <li>🎨 <strong>Frontend:</strong> React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS</li>
   <li>⚙️ <strong>Backend:</strong> Node.js, Express.js, MongoDB</li>
   <li>🛒 <strong>Other Tools:</strong> GitHub ,Vs Code, Chrome DevTool, Vercel, Netlify, Figma</li>
   <li>🧩 <strong>Clean Code:</strong> Performance Optimization, Scalable Architecture</li>
